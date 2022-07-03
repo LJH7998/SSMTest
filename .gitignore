@@ -8,8 +8,6 @@
 .idea/misc.xml
 .idea/qaplug_profiles.xml
 out/
-pom.xml
-src/
 ssmbuild.iml
 target/
 web/
